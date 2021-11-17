@@ -1,4 +1,4 @@
-<img src=https://github.com/DrNoSleep/wewwitten-javascwipt/actions/workflows/npmpub.yml/badge.svg>
+<a href=https://www.npmjs.com/package/wewwitten-javascwipt><img src=https://github.com/DrNoSleep/wewwitten-javascwipt/actions/workflows/npmpub.yml/badge.svg ></a>
 
 ```js
 consowe.wog("This is a very nice log"); => This is a vewy nyice wog
