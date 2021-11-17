@@ -1,6 +1,6 @@
 {
   "name": "wewwitten-javascwipt",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "console. but owo",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "console"
   ],
   "author": "discowod.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DrNoSleep/owo.js/issues"
   },
