@@ -1,0 +1,25 @@
+{
+  "name": "owojs",
+  "version": "0.0.1",
+  "description": "console. but owo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo owo whats this?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrNoSleep/owo.js.git"
+  },
+  "keywords": [
+    "owo",
+    "owoify",
+    "uwu",
+    "console"
+  ],
+  "author": "discowod.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrNoSleep/owo.js/issues"
+  },
+  "homepage": "https://github.com/DrNoSleep/owo.js#readme"
+}
