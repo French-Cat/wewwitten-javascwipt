@@ -12,28 +12,8 @@ You can request more functions here => https://github.com/DrNoSleep/owo.js/issue
 
 
 # Usage
-
+Put the script below in your HTML File
 ```HTML
-<script src=https://cdn.jsdelivr.net/gh/DrNoSleep/wewwitten-javascwipt/index.js></script> - jsdelivr gh
-
-```
-```HTML
-<script src=https://cdn.jsdelivr.net/npm/wewwitten-javascwipt/index.js></script> - jsdelivr npm
-
-```
-```HTML
-<script src=https://cdn.statically.io/gh/DrNoSleep/wewwitten-javascwipt/main/index.js></script> - statically
-
-```
-```HTML
-<script src=https://unpkg.com/wewwitten-javascwipt@latest/index.js></script> - unpkg
-
-```
-```HTML
-<script src=https://drnosleep.github.io/wewwitten-javascwipt/index.js></script> - gh pages
-
-```
-```HTML
-<script src=https://raw.githubusercontent.com/DrNoSleep/wewwitten-javascwipt/main/index.js></script> - raw gh usr content
+<script src=https://unpkg.com/wewwitten-javascwipt@latest/index.js></script>
 
 ```
