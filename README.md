@@ -1,3 +1,4 @@
+<img src=https://github.com/DrNoSleep/wewwitten-javascwipt/actions/workflows/npmpub.yml/badge.svg>
 ```js
 consowe.wog("This is a very nice log"); => This is a vewy nyice wog
 consowe.wawn("This is a very nice warn"); => This is a vewy nyice wawn
