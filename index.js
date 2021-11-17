@@ -30,7 +30,3 @@ const consowe = {
   wawn: (parm) => console.warn(owoify(parm)),
   ewwow: (parm) => console.error(owoify(parm)),
 };
-
-consowe.wog("This is a very nice log");
-consowe.wawn("This is a very nice warn");
-consowe.ewwow("This is a very nice error");
