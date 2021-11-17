@@ -29,4 +29,5 @@ const consowe = {
   wog: (parm) => console.log(owoify(parm)),
   wawn: (parm) => console.warn(owoify(parm)),
   ewwow: (parm) => console.error(owoify(parm)),
+  cweaw: () => console.clear()
 };
