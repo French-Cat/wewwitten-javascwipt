@@ -16,5 +16,5 @@ You can request more functions here => https://github.com/DrNoSleep/owo.js/issue
 Put the script below in your HTML File
 ```HTML
 <script src=https://unpkg.com/wewwitten-javascwipt@latest/index.js></script>
-
+<script src=https://unpkg.com/wewwitten-javascwipt@latest/index.min.js></script>
 ```
