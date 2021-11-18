@@ -31,3 +31,7 @@ const consowe = {
   ewwow: (parm) => console.error(owoify(parm)),
   cweaw: () => console.clear()
 };
+
+function awewt(parm) {
+  alert(owoify(parm))
+}
