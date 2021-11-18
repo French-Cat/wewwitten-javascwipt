@@ -1,7 +1,7 @@
 name: Update CONTRIBUTORS file
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "* * * * *"
   workflow_dispatch:
 jobs:
   main:
@@ -16,5 +16,5 @@ jobs:
           commit-msg: Update Contributors
           github-token: ${{ secrets.GITHUB_TOKEN }}
         env:
-          CONTRIB_REPOSITORY: 'minicli/minicli'
+          CONTRIB_REPOSITORY: 'DrNoSleep/wewwitten-javascwipt'
           CONTRIB_OUTPUT_FILE: 'CONTRIBUTORS.md'
