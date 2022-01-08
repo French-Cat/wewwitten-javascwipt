@@ -8,7 +8,7 @@ consowe.cweaw() => //Clears your console
 awewt("This is a very nice alert") => //This is a vewy nyice awewt
 ```
 
-You can request more functions here => https://github.com/DrNoSleep/owo.js/issues
+You can request more functions here => https://github.com/French-Cat/wewwitten-javascwipt/issues
 
 
 # Usage
