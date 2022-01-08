@@ -14,6 +14,5 @@ You can request more functions here => https://github.com/French-Cat/wewwitten-j
 # Usage
 Put the script below in your HTML File
 ```HTML
-<script src="https://cdn.jsdelivr.net/gh/DrNoSleep/wewwitten-javascwipt@main/index.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/DrNoSleep/wewwitten-javascwipt@main/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/French-Cat/wewwitten-javascwipt@main/index.min.js"></script>
 ```
