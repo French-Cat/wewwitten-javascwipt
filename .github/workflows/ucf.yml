@@ -19,5 +19,5 @@ jobs:
           commit-msg: Update Contributors
           github-token: ${{ secrets.GITHUB_TOKEN }}
         env:
-          CONTRIB_REPOSITORY: 'DiscowdTheDev/wewwitten-javascwipt'
+          CONTRIB_REPOSITORY: 'French-Cat/wewwitten-javascwipt'
           CONTRIB_OUTPUT_FILE: 'CONTRIBUTORS.md'
