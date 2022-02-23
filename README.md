@@ -1,1 +1,1 @@
-https://french-cat.github.io/docs/#/wewwitten-javascwipt
+https://docs.frcat.win/#/wewwitten-javascwipt
